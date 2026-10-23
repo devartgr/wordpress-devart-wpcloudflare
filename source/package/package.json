@@ -1,0 +1,14 @@
+{
+  "package_id": "pkg_devart_wpcloudflare",
+  "version": "1.0.0",
+  "creationDate": "2026-10-23",
+  "wordpress_minimum": "7.0.0",
+  "php_minimum": "8.3.0",
+  "members": [
+    {
+      "slug": "devart-wpcloudflare",
+      "main_file": "devart-wpcloudflare.php",
+      "archive": "devart-wpcloudflare.zip"
+    }
+  ]
+}

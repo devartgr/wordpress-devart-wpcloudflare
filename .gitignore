@@ -1,0 +1,24 @@
+.DS_Store
+._*
+Thumbs.db
+*.swp
+*~
+
+.idea/
+.vscode/
+.cursor/
+.cursorignore
+.cursorindexingignore
+
+# Local packaging / QA / operator workflow (not in the public open-source tree)
+/archive/
+/builds/
+/releases/
+/qa/
+/scripts/
+/assets/
+AGENTS.md
+PROJECT_STATUS.md
+TEMPLATE_VERSION.md
+docs/new-product-checklist.md
+docs/github-release-*.md

@@ -1,0 +1,38 @@
+/* devart-wpcloudflare build 1.0.17 */
+.devart-wpcloudflare-wrap .devart-wpcloudflare-card {
+	max-width: 860px;
+	margin: 1.5rem 0;
+	padding: 1rem 1.25rem 1.25rem;
+	background: #fff;
+	border: 1px solid #c3c4c7;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.devart-wpcloudflare-wrap .devart-wpcloudflare-status {
+	margin: 0;
+	padding-left: 1.25rem;
+}
+
+.devart-wpcloudflare-wrap .devart-wpcloudflare-status li {
+	margin: 0.35rem 0;
+}
+
+.devart-wpcloudflare-wrap .devart-wpcloudflare-inline-form {
+	margin: 0 0 1rem;
+}
+
+.devart-wpcloudflare-wrap .devart-wpcloudflare-inline-form--beside {
+	display: inline;
+	margin-left: 0.5em;
+}
+
+.devart-wpcloudflare-wrap .devart-wpcloudflare-url-form {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem 0.75rem;
+	align-items: center;
+}
+
+.devart-wpcloudflare-wrap .devart-wpcloudflare-url-form .button {
+	margin: 0;
+}
